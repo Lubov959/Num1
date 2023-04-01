@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 #include "askname.h"
@@ -11,3 +12,7 @@ int main(int argc, char **argv)
     printf("Hello, %s %s!\n", first, last);
     return 0;
 }
+=======
+{
+111
+>>>>>>> parent of 0655378 (thid commit in new branch)
